@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.PhotoContent {
+  height: 500px;
+  width: 500px;
+  background-color: bisque;
+  position: relative;
+  top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 20px; */
+
+
+}
+
+.photo {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+
+}
+
+.aboutPara{
+  font-weight: 900;
+}
