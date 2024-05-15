@@ -34,6 +34,16 @@ body {
 
 }
 
-.aboutPara{
+.aboutPara {
   font-weight: 900;
+}
+
+.downloadButton {
+  position: relative;
+  background-color: blueviolet;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+  top: 70px;
+  left: 150px;
 }
